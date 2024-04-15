@@ -1,0 +1,8 @@
+
+.venv/
+venv/
+
+dist/
+build/
+
+gsadz/__pycache__/
